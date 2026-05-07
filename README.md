@@ -143,7 +143,7 @@ Todas las credenciales están almacenadas en n8n — ninguna aparece en el códi
 ## Autor
 
 **Jesús Ignacio Briceño Alarcón**  
-Consultor en Desarrollo Social e Inteligencia Artifial  
+Consultor en Desarrollo Social e Inteligencia Artificial  
 Basado en los Países Bajos · Disponible internacionalmente
 
 ---
